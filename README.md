@@ -2,12 +2,12 @@
 
 # Hi, I'm Enas 👋
 <p>
-🎓 Multimedia student  
-💻 Learning Web Development & Java  
-🎨 Interested in UI/UX & Graphic Design  
-✨ Always creating new ideas
-🌱 Currently learning: Java & Web Development  
-🎯 Goal: Become a UI/UX & Web Developer
+🎓 Multimedia student<br>  
+💻 Learning Web Development & Java <br>   
+🎨 Interested in UI/UX & Graphic Design  <br>  
+✨ Always creating new ideas<br>  
+🌱 Currently learning: Java & Web Development <br>   
+🎯 Goal: Become a UI/UX & Web Developer<br>  
   </p>
 ---
 
