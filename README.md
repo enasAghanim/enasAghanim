@@ -1,14 +1,14 @@
-<p>
 <h2 align="center">Welcome to my GitHub profile 👩‍💻✨</h2>
-</p>
-# Hi, I'm Enas 👋
 
+# Hi, I'm Enas 👋
+<p>
 🎓 Multimedia student  
 💻 Learning Web Development & Java  
 🎨 Interested in UI/UX & Graphic Design  
 ✨ Always creating new ideas
 🌱 Currently learning: Java & Web Development  
 🎯 Goal: Become a UI/UX & Web Developer
+  </p>
 ---
 
 ## 📫 Contact Me
