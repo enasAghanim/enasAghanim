@@ -9,6 +9,5 @@
 
 ## 📫 Contact Me
 
-[![Instagram](https://img.icons8.com/ios-filled/30/000000/instagram-new.png)](https://instagram.com/enas._.ahmed20)
-
-[![LinkedIn](https://img.icons8.com/ios-filled/30/000000/linkedin.png)](https://linkedin.com/in/enasAghanim)
+[![Instagram](https://img.icons8.com/ios-filled/30/000000/instagram-new.png)](https://instagram.com/enas._.ahmed20
+)[![LinkedIn](https://img.icons8.com/ios-filled/30/000000/linkedin.png)](https://linkedin.com/in/enasAghanim)[![Telegram](https://img.icons8.com/ios-filled/30/000000/telegram-app.png)](https://t.me/ENAS_AHMEDN)[![Gmail](https://img.icons8.com/ios-filled/30/000000/gmail.png)](mailto:enas.ahmed1118@gmail.com)
