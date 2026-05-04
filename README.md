@@ -39,7 +39,7 @@
 <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>&nbsp;&nbsp;&nbsp;
 
 </td>
-<td align="center" width="300" style="border:1px solid #ddd; border-radius:5px; padding:7.5px;">
+<td align="center" width="100" style="border:1px solid #ddd; border-radius:5px; padding:7.5px;">
 </td>
 <td align="center" width="300" style="border:1px solid #ddd; border-radius:10px; padding:15px;">
 <h3>🎨 Design</h3>
