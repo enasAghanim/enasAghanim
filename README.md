@@ -12,13 +12,13 @@
 <p align="center">
   <a href="https://instagram.com/enas._.ahmed20">
     <img src="https://img.icons8.com/color/48/instagram-new.png"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/enasAghanim">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/ENAS_AHMEDN">
     <img src="https://img.icons8.com/color/48/telegram-app.png"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:enas.ahmed1118@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail.png"/>
   </a>
