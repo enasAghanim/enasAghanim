@@ -23,3 +23,17 @@
     <img src="https://img.icons8.com/color/48/gmail.png"/>
   </a>
 </p>
+
+---
+
+## 🚀 My Skills
+
+<p align="center">
+
+<img src="https://img.icons8.com/color/48/html-5.png" style="margin:10px"/>
+<img src="https://img.icons8.com/color/48/css3.png" style="margin:10px"/>
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" style="margin:10px"/>
+<img src="https://img.icons8.com/color/48/adobe-illustrator.png" style="margin:10px"/>
+<img src="https://img.icons8.com/color/48/blender-3d.png" style="margin:10px"/>
+
+</p>
