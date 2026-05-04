@@ -1,5 +1,6 @@
+<p>
 <h2 align="center">Welcome to my GitHub profile 👩‍💻✨</h2>
-
+</p>
 # Hi, I'm Enas 👋
 
 🎓 Multimedia student  
