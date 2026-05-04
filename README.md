@@ -9,6 +9,7 @@
 🌱 Currently learning: Java & Web Development <br>   
 🎯 Goal: Become a UI/UX & Web Developer<br>  
   </p>
+ <hr> 
   
 ## 📫 Contact Me
 
