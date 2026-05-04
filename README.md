@@ -26,14 +26,28 @@
 
 ---
 
-## 🚀 My Skills
+## 🚀 My Skill Set
 
-<p align="center">
+<table align="center">
+<tr>
 
-<img src="https://img.icons8.com/color/48/html-5.png" style="margin:10px"/>
-<img src="https://img.icons8.com/color/48/css3.png" style="margin:10px"/>
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" style="margin:10px"/>
-<img src="https://img.icons8.com/color/48/adobe-illustrator.png" style="margin:10px"/>
-<img src="https://img.icons8.com/color/48/blender-3d.png" style="margin:10px"/>
+<td align="center" width="300" style="border:1px solid #ddd; border-radius:10px; padding:15px;">
+<h3>💻 Programming</h3>
 
-</p>
+<img src="https://img.icons8.com/color/48/html-5.png"/>
+<img src="https://img.icons8.com/color/48/css3.png"/>
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+
+</td>
+
+<td align="center" width="300" style="border:1px solid #ddd; border-radius:10px; padding:15px;">
+<h3>🎨 Design</h3>
+
+<img src="https://img.icons8.com/color/48/adobe-illustrator.png"/>
+<img src="https://img.icons8.com/color/48/figma--v1.png"/>
+<img src="https://img.icons8.com/color/48/blender-3d.png"/>
+
+</td>
+
+</tr>
+</table>
